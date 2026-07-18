@@ -5,7 +5,7 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://varsanraja5-cmd.github.io/varsan_website',
+  site: 'https://varsanraja5-cmd.github.io',
   base: '/varsan_website'
   //integrations: [mdx(), sitemap(), tailwind()]
 });
