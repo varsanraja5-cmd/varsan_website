@@ -2,7 +2,7 @@
   "extends": "astro/tsconfigs/base",
   "compilerOptions": {
     "strictNullChecks": true,
-    "baseUrl": "./varsan_website",
+    "baseUrl": ".",
     "paths": {
       "@components/*": [
         "src/components/*"
